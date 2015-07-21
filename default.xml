@@ -43,7 +43,7 @@ remote="heshamelmatary"
 <project name="libsel4simple-stable.git" path="libs/libsel4simple-stable"/>
 <project name="libplatsupport.git" path="libs/libplatsupport"/>
 <project name="libutils.git" path="libs/libutils"/>
-<project name="sel4test.git" path="projects/sel4test">
+<project name="sel4-riscv.git" path="projects/sel4-riscv">
     <linkfile src="Makefile" dest="Makefile"/>
     <linkfile src="Kbuild" dest="Kbuild"/>
     <linkfile src="Kconfig" dest="Kconfig"/>
