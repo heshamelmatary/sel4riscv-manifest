@@ -46,6 +46,7 @@ remote="heshamelmatary"
     <linkfile src="Makefile" dest="Makefile"/>
     <linkfile src="Kbuild" dest="Kbuild"/>
     <linkfile src="Kconfig" dest="Kconfig"/>
+    <linkfile src="configs" dest="configs"/>
     <linkfile src="apps" dest="apps"/>
     <linkfile src="../../kernel/libsel4" dest="libs/libsel4"/>
 </project>
