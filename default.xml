@@ -34,6 +34,7 @@ remote="heshamelmatary"
 <project name="libsel4allocman.git" path="libs/libsel4allocman"/>
 <project name="libsel4vka.git" path="libs/libsel4vka"/>
 <project name="libsel4vspace.git" path="libs/libsel4vspace"/>
+<project name="libsel4cspace.git" path="libs/libsel4cspace"/>
 <project name="libsel4utils.git" path="libs/libsel4utils"/>
 <project name="libcpio.git" path="libs/libcpio"/>
 <project name="libelf.git" path="libs/libelf"/>
